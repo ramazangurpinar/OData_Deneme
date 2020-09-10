@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs/OData_Deneme
+/ODataCore3/bin/Debug/netcoreapp3.1
+/ODataCore3/obj
